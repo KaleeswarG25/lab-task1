@@ -1,4 +1,5 @@
-﻿# Lab Task 1 - Node.js CI/CD Pipeline
+
+ # Lab Task 1 - Node.js CI/CD Pipeline
 
 ## Objective
 Automate Node.js application testing, Docker image building, and publishing using GitHub Actions.
